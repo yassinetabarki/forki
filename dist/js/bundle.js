@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _tes
   \************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nconsole.log('imported module');\r\n\r\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (23);\n\n//# sourceURL=webpack://forkify/./src/js/test.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nconsole.log('imported module');\r\n\r\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (8752154151);\n\n//# sourceURL=webpack://forkify/./src/js/test.js?");
 
 /***/ })
 
